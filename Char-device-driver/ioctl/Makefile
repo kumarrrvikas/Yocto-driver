@@ -1,4 +1,4 @@
-obj-m := ioctl.o
+obj-m := hello.o
 
 SRC := $(shell pwd)
 
